@@ -3,8 +3,3 @@ na maquina
 
 git status - mostra o status do repositório se está tendo versionamento ou não
 git init - inicia um repositorio no GIT
-git add + nome do arquivo - adiciona um arquivo em específico
- (add . / adiciona tudo que há no repositorio) 
-git config --list - lista todas as configurações de uma determinada diretório
-git config --global user.name - 
-git log - lista todos os commits realizados no repositório
